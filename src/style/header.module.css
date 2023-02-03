@@ -1,0 +1,18 @@
+.container {
+    
+    display: flex;
+    justify-content: center;
+    color: black
+}
+.mediacard{
+    border-radius: 1.5ch;
+    margin-top: 16px;
+    width: 95%;
+    transform: translateX(2.5%);
+}
+.relative_stock{
+    border-radius: 1.5ch;
+    background-color: var(--theme-color);
+    margin-top: 3vh;
+    padding: 16px;
+}

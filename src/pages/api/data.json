@@ -1,0 +1,103 @@
+{
+  "newslist": [
+    {
+      "news_title": "This is a news title. This is a news title",
+      "id": 1,
+      "source": "naschk",
+      "date": "28-Jan-2023",
+      "relative_stock": {
+        "company": "COMP1",
+        "price": "11621.71",
+        "Change": "0.95"
+      }
+    },
+    {
+      "news_title": "This is a news title. This is a news title",
+      "id": 2,
+      "source": "naschk",
+      "date": "28-Jan-2023",
+      "relative_stock": {
+        "company": "COMP1",
+        "price": "11621.71",
+        "Change": "0.95"
+      }
+    },
+    {
+      "news_title": "This is a news title. This is a news title",
+      "id": 4,
+      "source": "naschk",
+      "date": "28-Jan-2023",
+      "relative_stock": {
+        "company": "COMP1",
+        "price": "11621.71",
+        "Change": "0.95"
+      }
+    },
+    {
+      "news_title": "This is a news title. This is a news title",
+      "id": 5,
+      "source": "naschk",
+      "date": "28-Jan-2023",
+      "relative_stock": {
+        "company": "COMP1",
+        "price": "11621.71",
+        "Change": "0.95"
+      }
+    }
+  ],
+  "data": [
+    {
+      "company": "COMP1",
+      "price": "11621.71",
+      "Change": "0.95"
+    },
+    {
+      "company": "COMP2",
+      "price": "11621.71",
+      "Change": "-0.95"
+    },
+    {
+      "company": "COMP3",
+      "price": "11621.71",
+      "Change": "0.95"
+    },
+    {
+      "company": "COMP4",
+      "price": "11621.71",
+      "Change": "-0.95"
+    },
+    {
+      "company": "COMP5",
+      "price": "11621.71",
+      "Change": "0.95"
+    },
+    {
+      "company": "COMP6",
+      "price": "11621.71",
+      "Change": "-0.95"
+    },
+    {
+      "company": "COMP7",
+      "price": "11621.71",
+      "Change": "0.95"
+    },
+    {
+      "company": "COMP8",
+      "price": "11621.71",
+      "Change": "0.95"
+    }
+  ],
+  "news_detail": {
+    "Company": "COMP",
+    "Company_Name": "NASDAQ composite index",
+    "Price": "11621.71",
+    "Price_up": "124",
+    "Change": 0.95,
+    "Contributer": " No Name",
+    "Published": "JAN 29, 2023 7:16AM EST",
+    "Previous_Close": "12,051.48",
+    "Day_Range": "11,999.87 - 12,248.15",
+    "News_title": "This is a news title. This is a news title",
+    "Detail": "Those are some random words Those are some random words Those are some random words Those are some random words Those are some random words "
+  }
+}
