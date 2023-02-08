@@ -9,7 +9,7 @@ import News_list from "@/components/news_list";
 import Typography from "@mui/material/Typography";
 import Image from "next/image";
 import jsondata from "@/pages/api/data.json";
-const data = jsondata.news_detail;
+const data = jsondata.Detail;
 
 export default function page() {
   return (
@@ -116,19 +116,11 @@ export default function page() {
             </Grid>
           </Box>
           <Box style={{ marginTop: "3vh" }}>
-            <Typography variant="subtitle1">
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-              {data.Detail}
-            </Typography>
+            {data.Detail.map((element) => (
+              <Typography variant="subtitle1" key={element.id}>
+                {element.value};
+              </Typography>
+            ))}
           </Box>
           <Typography
             variant="h5"

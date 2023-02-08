@@ -99,5 +99,29 @@
     "Day_Range": "11,999.87 - 12,248.15",
     "News_title": "This is a news title. This is a news title",
     "Detail": "Those are some random words Those are some random words Those are some random words Those are some random words Those are some random words "
-  }
+  },
+  "Detail": [
+    {
+      "id": 1,
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et tortor consequat id porta nibh. Diam maecenas sed enim ut sem viverra aliquet eget sit. Tellus at urna condimentum mattis. Ut tellus elementum sagittis vitae et leo duis. Dictum non consectetur a erat. Suspendisse potenti nullam ac tortor vitae. Tristique magna sit amet purus gravida quis blandit turpis. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Turpis egestas maecenas pharetra convallis posuere morbi leo. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Scelerisque eu ultrices vitae auctor eu augue ut. Pretium nibh ipsum consequat nisl."
+    },
+    {
+      "id": 2,
+      "value": "Id nibh tortor id aliquet lectus. Diam maecenas ultricies mi eget mauris pharetra et. Enim sed faucibus turpis in eu. Ipsum nunc aliquet bibendum enim facilisis. Tempor orci eu lobortis elementum nibh. Elit sed vulputate mi sit amet mauris commodo quis. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Nulla aliquet enim tortor at auctor urna nunc. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Aliquet enim tortor at auctor urna nunc. Amet facilisis magna etiam tempor orci eu. Tristique senectus et netus et. Quisque non tellus orci ac auctor augue mauris augue neque. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Ut eu sem integer vitae justo eget magna fermentum. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Eget lorem dolor sed viverra ipsum nunc. Tortor consequat id porta nibh venenatis cras."
+    },
+    {
+      "id": 3,
+      "value": "Turpis tincidunt id aliquet risus feugiat in. Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Morbi tincidunt ornare massa eget. Morbi tristique senectus et netus et. Neque convallis a cras semper auctor neque. Sagittis id consectetur purus ut. Mi proin sed libero enim sed. Enim lobortis scelerisque fermentum dui faucibus. Elit sed vulputate mi sit amet mauris commodo. Id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique. Orci phasellus egestas tellus rutrum tellus pellentesque eu. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Neque gravida in fermentum et sollicitudin ac orci phasellus. Habitant morbi tristique senectus et netus et malesuada. Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel. Hendrerit gravida rutrum quisque non tellus orci. Semper quis lectus nulla at volutpat diam ut venenatis."
+    },
+
+    {
+      "id": 4,
+      "value": "Arcu cursus euismod quis viverra nibh cras pulvinar. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Felis eget velit aliquet sagittis id. Etiam sit amet nisl purus in mollis nunc sed. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Ullamcorper a lacus vestibulum sed arcu. Id interdum velit laoreet id donec ultrices. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Mauris rhoncus aenean vel elit scelerisque. Purus non enim praesent elementum. Turpis massa tincidunt dui ut ornare lectus sit amet. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Est velit egestas dui id."
+    },
+
+    {
+      "id": 5,
+      "value": "Consectetur adipiscing elit pellentesque habitant morbi. Interdum velit laoreet id donec ultrices. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Nulla at volutpat diam ut venenatis tellus in. Nibh ipsum consequat nisl vel. Donec adipiscing tristique risus nec feugiat in fermentum posuere urna. Porttitor leo a diam sollicitudin tempor id. Nam libero justo laoreet sit amet cursus. Mi bibendum neque egestas congue quisque egestas. Lectus urna duis convallis convallis tellus id. Libero volutpat sed cras ornare arcu dui vivamus. Sapien nec sagittis aliquam malesuada bibendum arcu. Malesuada pellentesque elit eget gravida cum sociis natoque. Blandit massa enim nec dui. Vitae turpis massa sed elementum tempus egestas sed sed risus. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Nam libero justo laoreet sit amet."
+    }
+  ]
 }
