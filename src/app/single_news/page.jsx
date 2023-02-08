@@ -116,11 +116,19 @@ export default function page() {
             </Grid>
           </Box>
           <Box style={{ marginTop: "3vh" }}>
-            {data.Detail.map((element) => (
-              <Typography variant="subtitle1" key={element.id}>
-                {element.value};
-              </Typography>
-            ))}
+            <Typography variant="subtitle1">
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+              {data.Detail}
+            </Typography>
           </Box>
           <Typography
             variant="h5"
