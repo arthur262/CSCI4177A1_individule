@@ -9,8 +9,8 @@ import News_list from "@/components/news_list";
 import Typography from "@mui/material/Typography";
 import Image from "next/image";
 import jsondata from "@/pages/api/data.json";
-const data = jsondata.Detail;
-
+const data = jsondata.news_detail;
+const datas = jsondata.Detail;
 export default function page() {
   return (
     <div style={{ hieght: "fit-content" }}>
@@ -116,7 +116,7 @@ export default function page() {
             </Grid>
           </Box>
           <Box style={{ marginTop: "3vh" }}>
-            {data.Detail.map((element) => (
+            {datas.map((element) => (
               <Typography variant="subtitle1" key={element.id}>
                 {element.value};
               </Typography>
